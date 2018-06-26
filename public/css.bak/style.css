@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #fff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    color: #777777;
+}
+
+p,
+ul,
+ol {
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+
+input[type="submit"],
+a,
+.nbs-flexisel-nav-left,
+.nbs-flexisel-nav-right {
+    transition: .5s ease-in;
+    -webkit-transition: .5s ease-in;
+    -moz-transition: .5s ease-in;
+    -o-transition: .5s ease-in;
+    -ms-transition: .5s ease-in;
+}
+
+ul > li {
+    list-style: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:focus {
+    outline: none;
+    text-decoration: none;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.container {
+    width: 1160px !important;
+    padding: 0;
+}
