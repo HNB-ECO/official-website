@@ -50,11 +50,13 @@
 
 .w3layouts_footer_grid .links {
     margin-top: 21px;
+    white-space:nowrap;
 }
 
 ul.links li {
     list-style: none;
     color: #fff;
+    display: inline-block;
     line-height: 30px;
 }
 
