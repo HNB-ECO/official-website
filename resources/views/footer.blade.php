@@ -47,8 +47,8 @@
                 <li><a href="https://www.linkedin.com/company/hnb-eco/" class="w3_pinterest"  target="_blank"><i class=""></i></a></li>
                 <li><a href="http://weibo.com/HNBECO" class="w3_weibo"  target="_blank"><i class=""></i></a></li>
                 <li><a href="#" class="w3_weixin"  target="_blank"><i class=""></i></a></li>
-                <li><a href="https://discord.gg/MK3D8uj" class="w3_discord"  target="_blank"><i class=""></i></a></li>
-                <li><a href="https://github.com/hnb-ECO" class="w3_facebook"  target="_blank"><i class="k"></i></a></li>
+                <li><a href="https://github.com/hnb-ECO" class="w3_discord"  target="_blank"><i class=""></i></a></li>
+                <li><a href="https://discord.gg/MK3D8uj" class="w3_facebook"  target="_blank"><i class="k"></i></a></li>
             </ul>
         </div>
     </div>
