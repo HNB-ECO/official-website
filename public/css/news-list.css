@@ -79,7 +79,7 @@
 }
 
 .link-box .link-content {
-    width: 227px;
+    width: 256px;
     height: 25px;
     font-family: Arial-ItalicMT;
     font-size: 14px;
@@ -94,7 +94,7 @@
 
 @media screen and (max-width: 1160px) {
     .link-box .link-content {
-        width: 227px;
+        width: 256px;
         height: 12px;
         font-family: Arial-ItalicMT;
         font-size: 14px;
