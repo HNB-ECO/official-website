@@ -1,0 +1,253 @@
+.gallery-info {
+    display: flex;
+    justify-content: space-between;
+}
+
+.gallery-grids {
+    padding: 0;
+    width: 374px;
+    height: 373px;
+    position: relative;
+}
+
+@media screen and (max-width: 1159px) {
+    .gallery-info {
+        display: block;
+    }
+
+    .gallery-grids {
+        margin-bottom: 30px;
+        float: left;
+        width: 50%;
+        padding-left: 30px;
+    }
+}
+
+.gallery-box {
+    display: block;
+    width: 100%;
+    height: 373px;
+    background-image: url("../images/investors/investors10.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    mix-blend-mode: multiply;
+}
+
+.gallery-grids:hover .gallery-box {
+    background-image: url("../images/investors/investors02.png");
+}
+
+.gallery-grids-text {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    color: #fff;
+    text-align: center;
+    font-size: 24px;
+    padding-left: 37px;
+}
+
+.gallery-grids-text h2 {
+    font-family: Arial;
+    font-size: 24px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 35px;
+    letter-spacing: 0px;
+    color: #ffffff;
+    margin-top: 45px;
+    text-align: left;
+}
+
+.gallery-grids-text.other {
+    padding: 0;
+}
+
+.gallery-grids-text.other h2 {
+    margin-top: 177px;
+    text-align: center;
+}
+
+.gallery-grids-text .text {
+    width: 228px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 24px;
+    letter-spacing: 0px;
+    color: #ffffff;
+    text-align: left;
+    margin-top: 22px;
+}
+
+.ma-top {
+    margin-top: 20px;
+    margin-bottom: 56px;
+}
+
+.gallery {
+    padding-top: 82px;
+    background-image: url(../images/investors/03Ecosystem_02.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 80px;
+}
+
+.modal-body img.img-responsive {
+    margin: auto;
+}
+
+img.zoom-img {
+    transform: scale(1, 1);
+    -webkit-transform: scale(1, 1);
+    -moz-transform: scale(1, 1);
+    -ms-transform: scale(1, 1);
+    -o-transform: scale(1, 1);
+    transition-timing-function: ease-out;
+    -webkit-transition-timing-function: ease-out;
+    -moz-transition-timing-function: ease-out;
+    -ms-transition-timing-function: ease-out;
+    -o-transition-timing-function: ease-out;
+    -webkit-transition-duration: .5s;
+    -moz-transition-duration: .5s;
+    -ms-transition-duration: .5s;
+    -o-transition-duration: .5s;
+    mix-blend-mode: multiply
+}
+
+img.zoom-img:hover {
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    -webkit-transition-timing-function: ease-in-out;
+    -webkit-transition-duration: 750ms;
+    -moz-transition-timing-function: ease-in-out;
+    -moz-transition-duration: 750ms;
+    -ms-transition-timing-function: ease-in-out;
+    -o-transition-timing-function: ease-in-out;
+    -ms-transition-duration: 750ms;
+    -o-transition-duration: 750ms;
+    overflow: hidden;
+}
+
+.investors-img-box {
+    position: relative;
+    background-image: url("../images/investors/investors01.jpg");
+    background-size: cover;
+    height: calc(80vh - 73px);
+    background-position: center;
+}
+
+@media screen and (max-width: 768px) {
+    .investors-img-box {
+        height: calc(60vh - 73px);
+    }
+}
+
+.investors-img-absolute {
+    position: absolute;
+    width: 100%;
+    top: 0;
+}
+
+.investors-img-box > img {
+    width: 100%;
+    height: 500px;
+}
+
+.cover-img-box {
+    float: right;
+    margin-top: 125px;
+    width: 256px;
+}
+
+.cover-img-box > img {
+    width: 100%;
+}
+
+.content-center {
+    width: 267px;
+    height: 57px;
+    line-height: 57px;
+    border-radius: 38px;
+    color: #fff;
+    font-size: 30px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(0, 108, 175);
+    font-family: Arial Black;
+}
+
+.content-center > span {
+    font-family: Arial;
+}
+
+.content-text-img {
+    margin: 0 auto;
+    margin-top: 128px;
+    width: 880px;
+}
+
+.content-text-img img {
+    width: 100%;
+}
+
+@media screen and (max-width: 1160px) {
+    .content-text-img {
+        width: 100%;
+    }
+
+    .gallery {
+        margin: 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .content-text-img {
+        margin-top: calc(20vh - 73px);
+    }
+}
+
+@media screen and (max-width: 414px) {
+    .content-text-img {
+        margin-top: calc(25vh - 73px);
+    }
+}
+
+.middle-content-box {
+    position: absolute;
+    margin-top: -28px;
+    width: 100%;
+}
+
+@media (max-width: 991px) {
+    .gallery-grids {
+        float: left;
+        width: 50%;
+    }
+
+    .gallery {
+        padding: 3em 0;
+    }
+
+}
+
+@media (max-width: 768px) {
+
+    .gallery-grids {
+        width: 49%;
+        padding-right: 1px;
+    }
+}
+
+@media (max-width: 660px) {
+
+    .gallery-grids {
+        width: 100%;
+        padding: 0;
+    }
+}
+
