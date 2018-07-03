@@ -15,7 +15,7 @@
 
 @media screen and (max-width: 1160px) {
     .link-box {
-        margin-top: 40px;
+        margin-top: 80px;
     }
 }
 
@@ -33,7 +33,7 @@
 
 @media screen and (min-width: 415px) {
     .link-box {
-        margin-top: 40px;
+        margin-top: 80px;
     }
 }
 
