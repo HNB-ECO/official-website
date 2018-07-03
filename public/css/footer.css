@@ -50,6 +50,8 @@
 
 .w3layouts_footer_grid .links {
     margin-top: 21px;
+    display: block;
+    overflow: hidden;
     white-space:nowrap;
 }
 
