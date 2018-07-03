@@ -11,7 +11,7 @@
 
 .w3layouts_footer_grid {
     padding: 0;
-    width: 196px;
+    width: 245px;
     float: left;
 }
 
@@ -50,15 +50,11 @@
 
 .w3layouts_footer_grid .links {
     margin-top: 21px;
-    display: block;
-    overflow: hidden;
-    white-space:nowrap;
 }
 
 ul.links li {
     list-style: none;
     color: #fff;
-    display: inline-block;
     line-height: 30px;
 }
 
