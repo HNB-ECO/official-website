@@ -65,9 +65,9 @@
 }
 
 .link-box .link-title {
-    width: 107px;
+    width: 120px;
     height: 15px;
-    font-family: Arial-BoldItalicMT;
+    font-family: Arial;
     font-size: 14px;
     font-weight: normal;
     font-stretch: normal;
@@ -79,16 +79,16 @@
 }
 
 .link-box .link-content {
-    width: 256px;
+    width: 276px;
     height: 25px;
-    font-family: Arial-ItalicMT;
+    font-family: Arial;
     font-size: 14px;
     font-weight: normal;
     font-stretch: normal;
     line-height: 27px;
     letter-spacing: 0px;
     color: #dbdbdb;
-    border-bottom: 1px solid;
+    /* border-bottom: 1px solid; */
     cursor: pointer;
 }
 

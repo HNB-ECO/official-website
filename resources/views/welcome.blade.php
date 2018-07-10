@@ -19,7 +19,7 @@
                         <div style="overflow: hidden">
                             <div style="margin: 0 auto">
                                 <div class="carousel-img02">
-                                    <img src="/images/home/home02.png?v=1.0" alt="">
+                                    <!-- <img src="/images/home/home02.png?v=1.0" alt=""> -->
                                 </div>
                             </div>
                         </div>
@@ -33,8 +33,8 @@
                     <div style="overflow: hidden">
                         <div style="margin: 0 auto">
                             <div class="carousel-img02">
-                                <img style="width: 40px;margin-bottom: 40px" src="/images/home/home04.png" alt="">
-                                <img src="/images/home/home05.png" alt="">
+                                <!-- <img style="width: 40px;margin-bottom: 40px" src="/images/home/home04.png" alt="">
+                                <img src="/images/home/home05.png" alt=""> -->
                             </div>
                         </div>
                     </div>

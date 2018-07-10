@@ -49,21 +49,21 @@
 }
 
 .carousel-inner.slide01 .item {
-    background-image: url("../images/home/home01.jpg");
+    background-image: url("http://paqb7y7ao.bkt.clouddn.com/banner-1.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .carousel-inner.slide01 .home_png_3 {
-    background-image: url("../images/home/home03.jpg");
+    background-image: url("http://paqb7y7ao.bkt.clouddn.com/banner-2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .carousel-inner.slide01 .home_png_4 {
-    background-image: url("../images/home/home01.jpg");
+    background-image: url("http://paqb7y7ao.bkt.clouddn.com/banner-1.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;

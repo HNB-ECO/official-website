@@ -31,7 +31,7 @@
                 </div>
                 <div class="link-box-item">
                 		<a href="https://github.com/hnb-ECO" target="_blank">
-                    <h3 class="link-title">GitHUB</h3>
+                    <h3 class="link-title">Github</h3>
                     <p class="link-content">https://github.com/hnb-ECO</p>
                     </a>
                 </div>
@@ -49,7 +49,7 @@
                 </div>
 				<div class="link-box-item">
                 		<a href="http://weibo.com/HNBECO" target="_blank">
-                    <h3 class="link-title">WeiBo</h3>
+                    <h3 class="link-title">Weibo</h3>
                     <p class="link-content">http://weibo.com/HNBECO</p>
                     </a>
                 </div>

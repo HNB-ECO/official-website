@@ -70,10 +70,13 @@
                 <p class="documentation">Documentation</p>
                 <p class="download-pdf">Download PDF</p>
                 <div class="content-box04">
-                    <a href="http://paqb7y7ao.bkt.clouddn.com/HNB_TwoPager.pdf" target="_blank" style="color:#fff">Two-Pager</a>
+                    <a target="_blank"  onclick="myFunction()" style="color:#fff">Two-Pager</a>
                 </div>
+                
+                <!-- http://paqb7y7ao.bkt.clouddn.com/HNB_TwoPager.pdf  http://paqb7y7ao.bkt.clouddn.com/HNB_Whitepaper.pdf-->
+
                 <div class="content-box04">
-                    <a href="http://paqb7y7ao.bkt.clouddn.com/HNB_Whitepaper.pdf" target="_blank"  style="color:#fff">HNB Thesis</a>
+                    <a  target="_blank" onclick="myFunction()" style="color:#fff">HNB Thesis</a>
                 </div>
             </div>
         </div>
@@ -106,10 +109,14 @@
                 </div>
                 <div class="left ecosytem-box01-content-box02 ecosytem-box01-content-box02-paddinglf">
                     <div class="feedback01">
-                        Feedback
+                        
+                    <a href="http://hnb.eco/news/about_news/169" target="_blank">Feedback </a>
+
                     </div>
-                    <div class="about-community">About Community</div>
-                    <div class="feedback02">Feedback</div>
+                    <div class="about-community">                  
+                <a href="http://hnb.eco/news/about_news/169" target="_blank">About Community    </a>
+ </div>
+                    <div class="feedback02">   <a href="http://hnb.eco/news/about_news/169" target="_blank">Feedback  </a></div>
                     <div class="apr-4-2018">
                         Apr 4, 2018
                     </div>
@@ -208,6 +215,15 @@
             $th.css({marginLeft: -posX * wDiff});
         }, 10);
     });
+
+
+function myFunction()
+{
+    alert("Updateing,coming soon");
+}
+
 </script>
+
+
 </body>
 </html>

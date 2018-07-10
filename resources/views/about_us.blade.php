@@ -102,25 +102,28 @@
 
             </div>
             
+
+
+
+
             <div class="swiper-slide">
                 <div class=" agile_team_grid swiper-slide" style="margin-left: 0">
                     <div class="view view-sixth view-first">
-                   <!--      <img src="/images/about/Umesh_Singh_Kushwaha.png" alt=" " style="width:212px;height:216px;" class="img-responsive">-->
-                   <img src="/images/about/default.jpg?v=1.0" alt=" " style="width:212px;height:216px;" class="img-responsive">
+                    <!--      <img src="/images/about/Mark_Treleaven.png" alt=" " style="width:212px;height:216px;" class="img-responsive"> -->
+                    <img src="/images/about/default.jpg?v=1.0" alt=" " style="width:212px;height:216px;" class="img-responsive">
                         <div class="mask">
                             <img class="img-icon" src="/images/about/about_03.png" alt="">
-                            <h5 style="font-size:16px;">Christian Wolfgang Oertel</h5>
-                            <h5  style="font-size:16px;"> (DE)</h5>
+                            <h5><font style="font-size:16px">YiZhou Li (CN)</font></h5>
                             <div class="about-view-content">
-                                <p>Global Business Operation</p>
-                                <p>Master of Global Business</p>
-                                <p>Tsinghua University</p>
+                                <p>Professional in Industrial  </p><p> & Product design. </p>
+                                <p>Expert in PR   & MarComs.</p>
+                                <p>PhD, Tsinghua  University  </p>
                             </div>
 <!--                             <div class="learn-more"> -->
-<!--                                <p style="font-size: 12px">Learn More</p> -->
+<!--                                <p style="font-size: 12px">University</p> -->
 <!--                             </div> -->
                             <div class="img-icon-box">
-                                <a href="#" target="_blank">
+                                <a href="https://www.linkedin.com/in/yizhou-li-507140168/?trk=profile_share_wechat" target="_blank">
                                 <img class="img-icon-bm" src="/images/about/about_04.png" alt="">
                                 </a>
                             </div>
@@ -128,6 +131,40 @@
                     </div>
                 </div>
             </div>
+
+
+            
+            <div class="swiper-slide">
+                <div class=" agile_team_grid swiper-slide" style="margin-left: 0">
+                    <div class="view view-sixth view-first">
+                    <!--      <img src="/images/about/Mark_Treleaven.png" alt=" " style="width:212px;height:216px;" class="img-responsive"> -->
+                    <img src="/images/about/default.jpg?v=1.0" alt=" " style="width:212px;height:216px;" class="img-responsive">
+                        <div class="mask">
+                            <img class="img-icon" src="/images/about/about_03.png" alt="">
+                            <h5><font style="font-size:16px">Tony Zhang (CN)</font></h5>
+                            <div class="about-view-content">
+                                <p>IT Security & Blockchain Specialist </p>
+                                <p>Shanghai University</p>
+                            </div>
+<!--                             <div class="learn-more"> -->
+<!--                                <p style="font-size: 12px">University</p> -->
+<!--                             </div> -->
+                            <div class="img-icon-box">
+                                <a href="https://www.linkedin.com/in/zhang-tony-8a0266168/ " target="_blank">
+                                <img class="img-icon-bm" src="/images/about/about_04.png" alt="">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>  
+
+
+
+
+
+
+            
             <div class="swiper-slide">
                 <div class=" agile_team_grid swiper-slide" style="margin-left: 0">
                     <div class="view view-sixth view-first">
@@ -207,31 +244,7 @@
                 </div>
             </div>
             
-            <div class="swiper-slide">
-                <div class=" agile_team_grid swiper-slide" style="margin-left: 0">
-                    <div class="view view-sixth view-first">
-                     <!--  <img src="/images/about/Richard_Wang.png" alt=" " style="width:212px;height:216px;" class="img-responsive"> -->
-                     <img src="/images/about/default.jpg?v=1.0" alt=" " style="width:212px;height:216px;" class="img-responsive">
-                        <div class="mask">
-                            <img class="img-icon" src="/images/about/about_03.png" alt="">
-                            <h5><font style="font-size:16px">Loudon Owen (CA)</font></h5>
-                            <div class="about-view-content">
-                                <p>Managing Partner at </p><p>MW Capital  </p>
-                                <p>MBA</p>
-                                <p>University of Toronto , INSEAD</p>
-                            </div>
-<!--                             <div class="learn-more"> -->
-<!--                                <p style="font-size: 12px">Learn More</p> -->
-<!--                             </div> -->
-                            <div class="img-icon-box">
-                                <a href="https://www.linkedin.com/in/loudon-owen-b27a1/" target="_blank">
-                                <img class="img-icon-bm" src="/images/about/about_04.png" alt="">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+
             
             <div class="swiper-slide">
                 <div class=" agile_team_grid swiper-slide" style="margin-left: 0">
@@ -253,7 +266,7 @@
 <!--                                <p style="font-size: 12px">Learn More</p> -->
 <!--                             </div> -->
                             <div class="img-icon-box">
-                                <a href="#" target="_blank">
+                                <a href="https://www.linkedin.com/in/斌-漆-996a2096/" target="_blank">
                                 <img class="img-icon-bm" src="/images/about/about_04.png" alt="">
                                 </a>
                             </div>
@@ -282,7 +295,7 @@
 <!--                                <p style="font-size: 12px">Learn More</p> -->
 <!--                             </div> -->
                             <div class="img-icon-box">
-                                <a href="#" target="_blank">
+                                <a href="http://www.linkedin.com/in/mark-treleaven-364225/" target="_blank">
                                 <img class="img-icon-bm" src="/images/about/about_04.png" alt="">
                                 </a>
                             </div>
@@ -318,31 +331,7 @@
                 </div>
             </div>
             
-            <div class="swiper-slide">
-                <div class=" agile_team_grid swiper-slide" style="margin-left: 0">
-                    <div class="view view-sixth view-first">
-                     <!--  <img src="/images/about/Richard_Wang.png" alt=" " style="width:212px;height:216px;" class="img-responsive"> -->
-                     <img src="/images/about/default.jpg?v=1.0" alt=" " style="width:212px;height:216px;" class="img-responsive">
-                        <div class="mask">
-                            <img class="img-icon" src="/images/about/about_03.png" alt="">
-                            <h5><font style="font-size:16px">Neeraj Srivastava (CA)</font></h5>
-                            <div class="about-view-content">
-                                <p>Architect of Blockchain  </p>
-                                <p>Bachelor of computer science  </p>
-                                <p>University of Toronto</p>
-                            </div>
-<!--                             <div class="learn-more"> -->
-<!--                                <p style="font-size: 12px">Learn More</p> -->
-<!--                             </div> -->
-                            <div class="img-icon-box">
-                                <a href="https://www.linkedin.com/in/neeraj-srivastava-82847614/" target="_blank">
-                                <img class="img-icon-bm" src="/images/about/about_04.png" alt="">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+
             
             <div class="swiper-slide">
                 <div class=" agile_team_grid swiper-slide" style="margin-left: 0">
@@ -397,33 +386,13 @@
                 </div>
             </div>
             
-            <div class="swiper-slide">
-                <div class=" agile_team_grid swiper-slide" style="margin-left: 0">
-                    <div class="view view-sixth view-first">
-                     <!--  <img src="/images/about/Richard_Wang.png" alt=" " style="width:212px;height:216px;" class="img-responsive"> -->
-                     <img src="/images/about/default.jpg?v=1.0" alt=" " style="width:212px;height:216px;" class="img-responsive">
-                        <div class="mask">
-                            <img class="img-icon" src="/images/about/about_03.png" alt="">
-                            <h5><font style="font-size:16px">Umesh Singh Kushwaha </font></h5>
-                            <div class="about-view-content">
-                                <p>Blockchain Architect</p>
-                                <p>Co-Founder at DLT Labs </p>
-                                <p>Bachelor of Electronics and </p><p> Communication </p>
-                                <p>Uttar Pradesh Technical </p><p> University</p>
-                            </div>
-<!--                             <div class="learn-more"> -->
-<!--                                <p style="font-size: 12px">Learn More</p> -->
-<!--                             </div> -->
-                            <div class="img-icon-box">
-                                <a href="https://www.linkedin.com/in/umesh-singh-kushwaha-674288143/" target="_blank">
-                                <img class="img-icon-bm" src="/images/about/about_04.png" alt="">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+
+
+
+
+
         </div>
+        
         <div class="swiper-button-prev"></div>
         <div class="swiper-button-next"></div>
     </div>
