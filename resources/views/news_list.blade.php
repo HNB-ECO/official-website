@@ -89,8 +89,8 @@
                             <h2>{{$info['post_title']}}</h2>
                             <span>{!! mb_strimwidth(strip_tags($info['post_content']), 0, 200) !!}</span>
                             <div class="tag-box">
-                                <span class="time">{{ date("Y.m.d", strtotime($info['post_modified'])) }}</span>
-                                <span class="time name">BY:HNB</span>
+                                <!-- <span class="time">{{ date("Y.m.d", strtotime($info['post_modified'])) }}</span>
+                                <span class="time name">BY:HNB</span> -->
                                 <span class="more-text">more</span>
                             </div>
                         </div>

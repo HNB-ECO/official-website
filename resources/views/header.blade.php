@@ -16,9 +16,9 @@
     <link rel="stylesheet" href="/css/navbar.css?v=3.5.5">
     <link rel="stylesheet" href="/css/footer.css?v=3.88.7">
     @if (!empty($css_link_name))
-    <link rel="stylesheet" href="/css/{{ $css_link_name }}.css?v=5.11.8">
+    <link rel="stylesheet" href="/css/{{ $css_link_name }}.css?v=6.13.8">
     @endif
     @if (isset($other_css) && $other_css != '')
-    <link rel="stylesheet" href="/css/{{ $other_css }}.css?v=3.12.7">
+    <link rel="stylesheet" href="/css/{{ $other_css }}.css?v=4.14.7">
     @endif
 </head>

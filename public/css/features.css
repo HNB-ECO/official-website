@@ -16,7 +16,8 @@
 
 @media screen and (max-width: 768px) {
     .ecosytem-img01 {
-        height: calc(60vh - 73px);
+        height: calc(90vh);
+        background-image: url("../images/ecosystem/ecosystem_001.jpg");
     }
 }
 
@@ -412,6 +413,10 @@
     }
 }
 
+.ecosytem-box01-float-none-img, .ecosytem-box01-float-none-img img {
+    width: 290px;
+}
+
 @media screen and (max-width: 768px) {
     .ecosytem-box01-float-none {
         width: 100%;
@@ -428,5 +433,114 @@
 
     .ecosytem-box01-float-none-img, .ecosytem-box01-float-none-img img {
         width: 100%;
+    }
+}
+
+/* SHU PING  */
+@media screen and (max-width: 768px) {
+    .main-box.phone {
+        overflow-x: hidden;
+        display: block;
+    }
+
+    .main-content.phone {
+        width: 100%;
+        height: calc(90vh - 128px);
+        margin-top: 60px;
+        overflow-y: scroll;
+        overflow-x: hidden;
+    }
+
+    .main-content.phone .line-box {
+        position: relative;
+        width: 100%;
+        height: 750px;
+        cursor: pointer;
+    }
+
+    .main-content.phone .child-box {
+        width: 4px;
+        display: block;
+        position: relative;
+        vertical-align: middle;
+        background-color: #fff;
+        height: 196px;
+        margin: 0 auto;
+    }
+
+    .main-content.phone .parent-box {
+        position: inherit;
+        margin-left: 0;
+        line-height: 152px;
+    }
+
+    .main-content.phone .child-box .point {
+        width: 12px;
+        height: 12px;
+        border-radius: 6px;
+        background-color: #fff;
+        display: inline-block;
+        top: 0px;
+        left: -4px;
+    }
+
+    .main-content.phone .child-box .time-info {
+        display: inline-block;
+        font-family: Arial;
+        font-size: 25px;
+        font-weight: bold;
+        font-stretch: normal;
+        line-height: 27px;
+        letter-spacing: 0px;
+        color: #ffffff;
+        top: -12px;
+        font-style: italic;
+    }
+
+    .main-content.phone .child-box:nth-child(odd) .text-info, .main-content.phone .child-box:nth-child(even) .time-info {
+        left: -160px;
+        width: 160px;
+        top: -12px;
+    }
+
+    .main-content.phone .child-box .text-info {
+        display: inline-block;
+        width: 221px;
+        font-family: Arial;
+        font-size: 14px;
+        line-height: 18px;
+        letter-spacing: 1px;
+        color: #ffffff;
+        left: 16px;
+        white-space: normal;
+        text-align: left;
+    }
+
+    .main-content.phone .child-box:nth-child(even) .text-info, .main-content.phone .child-box:nth-child(odd) .time-info {
+        top: -13px;
+        left: 14px;
+        width: 160px;
+    }
+
+    .main-content.phone .child-box:last-child:after {
+        width: 15px;
+        height: 4px;
+        background-color: #fff;
+        content: '';
+        position: absolute;
+        top: 187px;
+        transform: rotate(46deg);
+        right: 0px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .main-content.phone .child-box:nth-child(odd) .text-info, .main-content.phone .child-box:nth-child(even) .time-info {
+        left: -140px;
+        width: 140px;
+    }
+
+    .main-content.phone .child-box:nth-child(even) .text-info, .main-content.phone .child-box:nth-child(odd) .time-info {
+        width: 140px;
     }
 }

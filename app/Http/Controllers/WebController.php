@@ -3,7 +3,7 @@ namespace App\Http\Controllers;
 use Illuminate\Routing\Controller as BaseController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
-
+use App\Formatting;
 
 class WebController extends BaseController
 {
@@ -67,6 +67,7 @@ class WebController extends BaseController
         // Related reading 等于
         $class_id = 0;
         $data = $this->getRelateNews($id, '=', 1, $class_id);
+        $text = new Formatting();
         if (!empty($data['result'])) {
             $return_data['eq_data'] = $data['result'][false];
             $class_id = $return_data['eq_data']['term_id'];

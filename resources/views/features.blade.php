@@ -10,8 +10,8 @@
         <div class="container">
             <div class="img-box img-box-po">
                 <img src="/images/ecosystem/in04.png?v=1.0" alt="">
-                <div class="main-box">
-                    <div class="main-content">
+                <div class="main-box phone">
+                    <div class="main-content phone">
                         <div class="line-box">
                             <div class="parent-box">
                                 <div class="child-box"><span class="point"></span></div>
@@ -21,7 +21,7 @@
                                     </span>
                                     <span class="point"></span>
                                     <span class="text-info">
-                                        Research  - Conduct inten-sive research on cryptocur-rency investment and related technologies.
+                                    RESEARCH -    Intensive research on decentralization applications and blockchain technology.
                                     </span>
                                 </div>
                                 <div class="child-box">
@@ -30,7 +30,7 @@
                                     </span>
                                     <span class="point"></span>
                                     <span class="text-info">
-                                        Team building  - Establish the core team.
+                                    HNB TEAM -     Establishment of the HNB core team (HNB Shanghai & HNB Canada).
                                     </span>
                                 </div>
                                 <div class="child-box">
@@ -39,7 +39,7 @@
                                     </span>
                                     <span class="point"></span>
                                     <span class="text-info">
-                                       Blueprint – Design decentral-ized economic model and rel-evant technical solutions.
+                                    BLUEPRINT -  Design decentralized economic model and relevant technical solutions.
                                     </span>
                                 </div>
                                 <div class="child-box">
@@ -47,10 +47,57 @@
                                         Q2 2018
                                     </span>
                                     <span class="point"></span>
-                                    <span class="text-info" style="margin-top:-10px;">
-                                       Blueprint – Design decentral-ized economic model and rel-evant technical solutions.
+                                    <span class="text-info" style="margin-top:-40px;">
+                                    VALIDATION – MVP(Minimum Viable Product) launch, small-scale commercial use cases implemented, complete HNB economic model validation and modification.
                                     </span>
                                 </div>
+                                <div class="child-box">
+                                    <span class="time-info">
+                                        Q3 2018
+                                    </span>
+                                    <span class="point"></span>
+                                    <span class="text-info" style="margin-top:-10px;">
+                                    COMPLETION- Completion of DApp SDK development & ERC20-based underlying architecture construction. Provide direct technological support to Merchants in HNB ecosystem.
+                                    </span>
+                                </div>
+                                <div class="child-box">
+                                    <span class="time-info">
+                                        Q4 2018
+                                    </span>
+                                    <span class="point"></span>
+                                    <span class="text-info" style="margin-top:-10px;">
+                                    PERFECTION – Complete development of HNB/HGS erc20-based wallet.
+                                    </span>
+                                </div>
+                                <div class="child-box">
+                                    <span class="time-info">
+                                        Q2 2019
+                                    </span>
+                                    <span class="point"></span>
+                                    <span class="text-info" style="margin-top:-10px;">
+                                    MAINNET 1.0 – HGS & HNB Duo-Chain launch. 
+                                    </span>
+                                </div>
+                                <div class="child-box">
+                                    <span class="time-info">
+                                        Q4 2019
+                                    </span>
+                                    <span class="point"></span>
+                                    <span class="text-info" style="margin-top:-10px;">
+                                    MAINNET 2.0 – Realization of off-chain high speed transaction.
+                                    </span>
+                                </div>
+                                <div class="child-box">
+                                    <span class="time-info">
+                                        Q1 2020
+                                    </span>
+                                    <span class="point"></span>
+                                    <span class="text-info" style="margin-top:-10px;">
+                                    Ecosystem Development - Provide support to CrossChain / SideChain transaction，ecosystem contributor to launch digital asset.
+                                    </span>
+                                </div>
+
+
                             </div>
                         </div>
                     </div>
@@ -69,66 +116,45 @@
             <div class="left ecosytem-box01-content-box02">
                 <p class="documentation">Documentation</p>
                 <p class="download-pdf">Download PDF</p>
-                <div class="content-box04">
-                    <a target="_blank"  onclick="myFunction()" style="color:#fff">Two-Pager</a>
-                </div>
-                
-                <!-- http://paqb7y7ao.bkt.clouddn.com/HNB_TwoPager.pdf  http://paqb7y7ao.bkt.clouddn.com/HNB_Whitepaper.pdf-->
 
                 <div class="content-box04">
-                    <a  target="_blank" onclick="myFunction()" style="color:#fff">HNB Thesis</a>
+                    <a target="_blank" 
+                    href="http://paqb7y7ao.bkt.clouddn.com/HNB_TwoPagerV1.0.pdf  "  style="color:#fff">Two-Pager</a>
+                </div>
+                
+                <!-- http://paqb7y7ao.bkt.clouddn.com/HNB_TwoPager.pdf  http://paqb7y7ao.bkt.clouddn.com/HNB_Whitepaper%20V8.0.pdf-->
+
+                <div class="content-box04">
+                    <a  target="_blank" href="http://paqb7y7ao.bkt.clouddn.com/HNB%20White%20Paper_V8.0.0.pdf"  style="color:#fff">HNB Whitepaper</a>
                 </div>
             </div>
         </div>
-<!--         <div class="right"> -->
-<!--            @if (!empty($news_result)) -->
-<!--            @foreach($news_result as $key=>$info) -->
-<!--             <div class="left"> -->
-<!--                 <img src="@if (!empty($info['attachment'])){{$info['attachment']}} @else /images/ecosystem/02investors-_07.jpg @endif" alt=""> -->
-<!--             </div> -->
-<!--             <div class="left ecosytem-box01-content-box02 ecosytem-box01-content-box02-paddinglf"> -->
-<!--                 <div class="feedback01"> -->
-<!--                     Feedback -->
-<!--                 </div> -->
-<!--                 <div class="about-community">{{$info['post_title']}}</div> -->
-<!--                 <div class="apr-4-2018"> -->
-<!--                     {{date("M.d.Y", strtotime($info['post_modified']))}} -->
-<!--                 </div> -->
-<!--                 <div class="blockchain-technology"> -->
-<!--                    {{mb_strimwidth(strip_tags($info['post_content']), 0, 200)}} -->
-<!--                 </div> -->
-<!--             </div> -->
-<!--             @endforeach -->
-<!--             @endif -->
-<!--         </div> -->
-
 		<div class="right ecosytem-box01-float-none">
+            @if (!empty($news_result))
+                @foreach($news_result as $key=>$info)
 			<div class="selected">
                 <div class="left ecosytem-box01-float-none-img">
-                    <img src="/images/ecosystem/02investors-_07.jpg" alt="">
+                    <img src="@if (!empty($info['attachment'])){{$info['attachment']}}@else /images/ecosystem/02investors-_07.jpg @endif" alt="" style="height:275px;">
                 </div>
                 <div class="left ecosytem-box01-content-box02 ecosytem-box01-content-box02-paddinglf">
                     <div class="feedback01">
-                        
-                    <a href="http://hnb.eco/news/about_news/169" target="_blank">Feedback </a>
-
+                    <a href="/news/about_news/{{$info['ID']}}" target="_blank">more </a>
                     </div>
                     <div class="about-community">                  
-                <a href="http://hnb.eco/news/about_news/169" target="_blank">About Community    </a>
- </div>
-                    <div class="feedback02">   <a href="http://hnb.eco/news/about_news/169" target="_blank">Feedback  </a></div>
+                        <a href="/news/about_news/{{$info['ID']}}" target="_blank">{{$info['post_title']}}</a>
+                    </div>
+                    <!-- <div class="feedback02">Feedback</div> -->
+
                     <div class="apr-4-2018">
-                        Apr 4, 2018
+                        {{date("M.d.Y", strtotime($info['post_modified']))}}
                     </div>
                     <div class="blockchain-technology">
-                        Blockchain technology offers a
-                        fundamentally streamlined
-                        method of maintaining a secure
-                        ledger of transactions compared
-                        to a traditionalabase...
+                        {{mb_strimwidth(strip_tags($info['post_content']), 0, 150)}}
                     </div>
                 </div>
             </div>
+                @endforeach
+            @endif
             </div>
     </div>
 

@@ -180,8 +180,8 @@
                         On June 21st, Benrui Capital and KeXiang Group successfully held the first Blockchain Forum at InnoSpace, Shanghai. Attendees include blockchain industry leaders, experts, scholars, geeks, and institutional investors. Speakers shared the cutting...
                     </span>
                         <div class="tag-box">
-                            <span class="time">2018.06.23</span>
-                            <span class="time name">BY:HNB</span>
+                            <!-- <span class="time">2018.06.23</span>
+                            <span class="time name">BY:HNB</span> -->
                             <span class="more-text">more</span>
                         </div>
                     </div>
@@ -200,8 +200,6 @@
                          Ms. Jennifer has briefly introduced POBC and its achievements reached in past 18 months. POBC, as an aggressive and dynamic PR company, has strong influence in North America, not only established direct link with Mr. Vitalik Buterin...
                     </span>
                         <div class="tag-box">
-                            <span class="time">2018.06.21</span>
-                            <span class="time name">BY:HNB</span>
                             <span class="more-text">more
                         </div>
                     </div>
@@ -219,8 +217,6 @@
                         It was a pleasure to join the conference held by FBG Capital and MeiHua Token fund, our strategic advisor Mr. Ken shared the project insights with Mr. Yue from MeiHua Token Fund! We will share more information in the upcoming period, stay tuned!
                     		</span>
                         <div class="tag-box">
-                            <span class="time">2018.06.19</span>
-                            <span class="time name">BY:HNB</span>
                             <span class="more-text">more</span>
                         </div>
                     </div>
