@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/HNB-ECO/official-website/blob/master/HNB.JPG"></p>
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
