@@ -304,35 +304,10 @@
                 </div>
             </div>
             
-            <div class="swiper-slide">
-                <div class=" agile_team_grid swiper-slide" style="margin-left: 0">
-                    <div class="view view-sixth view-first">
-                     <!--  <img src="/images/about/Richard_Wang.png" alt=" " style="width:212px;height:216px;" class="img-responsive"> -->
-                     <img src="/images/about/default.jpg?v=1.0" alt=" " style="width:212px;height:216px;" class="img-responsive">
-                        <div class="mask">
-                            <img class="img-icon" src="/images/about/about_03.png" alt="">
-                            <h5><font style="font-size:16px">Michael Gagnier (CA)</font></h5>
-                            <div class="about-view-content">
-                                <p>Digital and Information</p><p> Technology  </p>
-                                <p>Executive  </p>
-                                <p>Bachelor of computer science</p>
-                                <p>Carleton University </p>
-                            </div>
-<!--                             <div class="learn-more"> -->
-<!--                                <p style="font-size: 12px">Learn More</p> -->
-<!--                             </div> -->
-                            <div class="img-icon-box">
-                                <a href="https://www.linkedin.com/in/michael-gagnier-a9906bb1/#education-section" target="_blank">
-                                <img class="img-icon-bm" src="/images/about/about_04.png" alt="">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
 
             
+
+           
             <div class="swiper-slide">
                 <div class=" agile_team_grid swiper-slide" style="margin-left: 0">
                     <div class="view view-sixth view-first">

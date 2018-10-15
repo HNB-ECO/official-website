@@ -119,13 +119,13 @@
 
                 <div class="content-box04">
                     <a target="_blank" 
-                    href="http://paqb7y7ao.bkt.clouddn.com/HNB_TwoPagerV1.0.pdf  "  style="color:#fff">Two-Pager</a>
+                    href="http://p9mu5lfc8.bkt.clouddn.com/Twopage.pdf"  style="color:#fff">Two-Pager</a>
                 </div>
                 
-                <!-- http://paqb7y7ao.bkt.clouddn.com/HNB_TwoPager.pdf  http://paqb7y7ao.bkt.clouddn.com/HNB_Whitepaper%20V8.0.pdf-->
+                <!-- http://paqb7y7ao.bkt.clouddn.com/HNB_TwoPager.pdf  http://paqb7y7ao.bkt.clouddn.com/HNB%20White%20Paper_V8.0.0.pdf-->
 
                 <div class="content-box04">
-                    <a  target="_blank" href="http://paqb7y7ao.bkt.clouddn.com/HNB%20White%20Paper_V8.0.0.pdf"  style="color:#fff">HNB Whitepaper</a>
+                    <a  target="_blank" href="http://paqb7y7ao.bkt.clouddn.com/whitepaper.pdf"  style="color:#fff">HNB </a>
                 </div>
             </div>
         </div>

@@ -36,3 +36,8 @@ Route::group(['prefix'=>'news'], function(){
 
 // 附件中心
     Route::get('/pdf_list', 'WebController@pdfList');
+
+
+    Route::get('/dco', function () {
+        return view('DCO');
+    });
